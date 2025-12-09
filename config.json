@@ -1,0 +1,7 @@
+{
+    "video_player": "plyr",
+    "autoplay": true,
+    "save_position": true,
+    "auto_next_episode": true,
+    "theme": "dark"
+}

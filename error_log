@@ -1,0 +1,26 @@
+[12-Jul-2025 22:38:31 America/New_York] PHP Warning:  file_put_contents(/auto_cleanup.log): failed to open stream: Permission denied in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/admin.php on line 111
+[12-Jul-2025 23:09:02 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[12-Jul-2025 23:09:03 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[12-Jul-2025 23:09:03 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 00:43:06 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 00:43:17 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 00:43:31 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 00:44:04 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 00:44:42 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 12:52:50 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 12:54:27 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 12:58:09 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 13:01:12 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 13:04:11 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 13:06:44 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 14:32:55 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 14:33:10 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 14:33:10 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 14:35:05 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 14:35:24 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 14:37:11 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/snapixtvweb/movies.php on line 99
+[13-Jul-2025 14:58:42 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/movies.php on line 99
+[13-Jul-2025 14:58:43 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/movies.php on line 99
+[13-Jul-2025 14:58:58 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/movies.php on line 99
+[13-Jul-2025 15:02:07 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/gmmultim/websnapixtv.gmmultimedio.top/movies.php on line 100
+[13-Jul-2025 15:02:54 America/New_York] PHP Notice:  Undefined index: releasedate in /home/gmmultim/websnapixtv.gmmultimedio.top/movies.php on line 99
